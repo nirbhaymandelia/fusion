@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "@storybook/react": "^3.2.8",
+    "@storybook/addon-info": "^3.2.9",
     "eslint": "^4.5.0",
     "eslint-config-airbnb": "^15.1.0",
     "eslint-plugin-import": "^2.7.0",
